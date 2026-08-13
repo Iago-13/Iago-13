@@ -68,8 +68,8 @@ Plataforma web criada a partir de necessidades reais de operações logísticas 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Iago-13&show_icons=true&hide_border=true&locale=pt-br&title_color=0A66C2&icon_color=2EA043&text_color=57606a&bg_color=00000000" alt="Estatísticas do GitHub de Iago" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iago-13&layout=compact&hide_border=true&locale=pt-br&title_color=0A66C2&text_color=57606a&bg_color=00000000" alt="Linguagens mais utilizadas por Iago" />
+<img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Iago-13&theme=github" alt="Resumo das contribuições de Iago no GitHub" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Iago-13&theme=github" alt="Linguagens mais utilizadas nos repositórios de Iago" />
 
 </div>
 
