@@ -2,7 +2,7 @@
 
 ![Cabeçalho do perfil de Iago Mayer Bach](https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:2EA043&height=190&section=header&text=Iago%20Mayer%20Bach&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Dados%20%7C%20Automa%C3%A7%C3%A3o%20%7C%20Solu%C3%A7%C3%B5es%20Operacionais&descAlignY=56&descSize=17)
 
-### Analista de Dados • Desenvolvedor de Soluções Internas • Automação de Processos
+### Analista de Dados • Pós-graduando em Big Data • Automação de Processos
 
 Transformo desafios reais da operação em **sistemas, indicadores e automações** que apoiam decisões mais rápidas e confiáveis.
 
@@ -15,6 +15,8 @@ Transformo desafios reais da operação em **sistemas, indicadores e automaçõe
 ## Sobre mim
 
 Sou formado em **Análise e Desenvolvimento de Sistemas** e tenho experiência prática na conexão entre tecnologia e operações logísticas. Desenvolvo soluções que substituem controles manuais, organizam dados e tornam os resultados da operação mais visíveis.
+
+Atualmente curso **pós-graduação em Big Data e Inteligência de Dados na FAE Business School**, ampliando minha formação em análise, tratamento e uso estratégico de dados.
 
 - 📊 Construção de dashboards, indicadores e análises para apoio à decisão;
 - ⚙️ Automação de processos com Python, Excel, VBA e integrações;
@@ -64,14 +66,14 @@ Plataforma web criada a partir de necessidades reais de operações logísticas 
 | [Locadora PHP](https://github.com/Iago-13/Locadora-PHP) | Aplicação acadêmica para gestão de uma locadora. | PHP e banco de dados |
 | [Python Project ERP](https://github.com/Iago-13/Python-project-ERP) | Estudos e desenvolvimento de rotinas voltadas a sistemas ERP. | Python |
 
-## GitHub em números
+## GitHub e portfólio
 
-<div align="center">
+| Portfólio público | Evolução técnica | Projeto aplicado |
+| :---: | :---: | :---: |
+| [Ver todos os repositórios](https://github.com/Iago-13?tab=repositories) | [Acompanhar contribuições](https://github.com/Iago-13) | [Operação Armazém Online](https://github.com/Iago-13/operacao-armazem-online) |
+| Projetos de dados, automação e desenvolvimento | Histórico mantido diretamente pelo GitHub | Solução web para gestão de operações logísticas |
 
-<img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Iago-13&theme=github" alt="Resumo das contribuições de Iago no GitHub" />
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Iago-13&theme=github" alt="Linguagens mais utilizadas nos repositórios de Iago" />
-
-</div>
+> Esta seção usa links nativos do GitHub para manter o perfil estável e evitar falhas de carregamento causadas por limites de APIs externas.
 
 ## Minha jornada de contribuições
 
@@ -88,6 +90,7 @@ Plataforma web criada a partir de necessidades reais de operações logísticas 
 ## Formação e objetivo
 
 - 🎓 **Tecnólogo em Análise e Desenvolvimento de Sistemas** — Universidade Positivo, concluído em 2025;
+- 🎓 **Pós-graduação em Big Data e Inteligência de Dados** — FAE Business School, em andamento, iniciada em 2026;
 - 📚 Formação complementar em Power BI, Excel, WMS e processos operacionais;
 - 🎯 Objetivo: atuar com **Análise de Dados, Business Intelligence, Automação de Processos ou Desenvolvimento de Sistemas Corporativos**.
 
